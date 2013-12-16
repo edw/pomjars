@@ -20,7 +20,7 @@ To install Pomjars, run `lein repl` in your home directory and evaluate the foll
      (spit ".lein/profiles.clj.new"))
 ```
 
-Review the generated file `profiles.clj.new` and replace the original `profiles.clj` when you're happy. Now, whenever you're running a REPL and realize you forget to add a bunch of stuff to your `project.clj`, you can simply do this:
+Review the generated file `profiles.clj.new` and replace the original `profiles.clj` when you're happy. Now, whenever you're running a REPL and realize you forgot to add a bunch of stuff to your `project.clj`, you can simply do this:
 
 ```clojure
 (require '[pomjars.core :as pj])
