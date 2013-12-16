@@ -1,5 +1,5 @@
 (defproject edw/pomjars "0.1.0"
-  :description "Pomegranate for the lazy"
+  :description "Pomegranate for the lazy and forgetful"
   :url "http://github.com/edw/pomjars"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
